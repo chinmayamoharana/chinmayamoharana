@@ -18,6 +18,7 @@
 💼 Open to Frontend / Full Stack Roles
 
 🧠 Developer Profile
+```
 const CHINMAYA = {
     pronouns: "He/Him",
     code: ["JavaScript", "Python", "SQL"],
@@ -30,6 +31,7 @@ const CHINMAYA = {
     },
     currentFocus: "Building scalable full stack applications"
 };
+```
 ## 🚀 Tech Stack
 
 ### 💻 Frontend
@@ -79,7 +81,7 @@ ATS Resume Analyzer
 Django E-commerce
 
 PDF ↔ Word Converter
-
+ 
 Cafe Management System
 
 ⭐ Clean UI • Scalable Backend • Real-world problem solving
