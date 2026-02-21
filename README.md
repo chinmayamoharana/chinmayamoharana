@@ -56,8 +56,12 @@ const CHINMAYA = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chinmayamoharana&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayamoharana&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chinmayamoharana&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayamoharana&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+</p>
 🔥 GitHub Streak
 <p align="center"> <img src="https://streak-stats.demolab.com?user=chinmayamoharana&theme=tokyonight&hide_border=true" height="170"/> </p>
 📈 Contribution Graph
