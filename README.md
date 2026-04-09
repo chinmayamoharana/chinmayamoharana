@@ -67,6 +67,10 @@ const CHINMAYA = {
 
 📂 Featured Work:
 
+Kanban-Board-App
+
+Finance-Dashboard-System
+
 MERN Stack Job Portal
 
 ATS Resume Analyzer
