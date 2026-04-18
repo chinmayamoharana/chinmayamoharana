@@ -13,6 +13,8 @@
 
 📍 Bhubaneswar, Odisha, India
 
+🌐 My Portfolio:🔗 https://chinmaya-moharana-22.vercel.app/
+
 📫 moharanachinmay300@gmail.com
 
 💼 Open to Frontend / Full Stack Roles
@@ -62,8 +64,6 @@ const CHINMAYA = {
 
 📬 Connect With Me
 <p align="center"> <a href="mailto:moharanachinmay300@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/chinmaya-moharana-707b02239"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/chinmayamoharana"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> <p align="center"> 📍 Bhubaneswar, Odisha, India 💼 Open to Frontend & Full Stack Opportunities </p>
-
-🌐 My Portfolio:🔗 https://chinmaya-moharana-22.vercel.app/
 
 📂 Featured Work:
 
