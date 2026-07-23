@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chinmaya Moharana</h1> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+%7C+Django+%7C+React;Building+Scalable+Web+Applications;Open+to+Frontend+%26+Full+Stack+Opportunities+🚀" /> </p> 
+<h1 align="center">Hi 👋, I'm Chinmaya Moharana</h1> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+%7C+Django+%7C+React;Building+Scalable+Web+Applications;Open+to+Frontend+%26+Full+Stack+Opportunities+🚀" /> </p> 
 
 
 💫 About Me
