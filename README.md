@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Chinmaya Moharana</h1>
 
 <p align="center">
@@ -8,12 +9,15 @@
   <a href="https://chinmaya-moharana-22.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
+
   <a href="https://github.com/chinmayamoharana">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://linkedin.com/in/chinmaya-moharana-707b02239">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:moharanachinmay300@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -21,28 +25,35 @@
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-* 🎓 B.Tech in Computer Science, 2025
-* 💻 Full Stack Developer specializing in **MERN Stack & Django**
-* ⚛️ Building responsive and scalable web applications
-* 🤖 Exploring **AI-powered applications, RAG and intelligent systems**
-* 🧠 Currently learning **Advanced Backend Architecture & System Design**
-* 🚀 Interested in building products that solve real-world problems
-* 💼 Open to **Frontend & Full Stack Developer opportunities**
-* 📍 Bhubaneswar, Odisha, India
+🎓 B.Tech in Computer Science (2025)
 
-🌐 **Portfolio:**
+💻 Full Stack Developer specializing in **MERN Stack & Django**
+
+⚛️ Building responsive, scalable and production-ready web applications
+
+🤖 Exploring **AI-powered applications, RAG and intelligent systems**
+
+🧠 Currently learning **Advanced Backend Architecture & System Design**
+
+🔭 Interested in solving real-world problems through software
+
+💼 Open to **Frontend & Full Stack Developer opportunities**
+
+📍 Bhubaneswar, Odisha, India
+
+🌐 **Portfolio:**  
 https://chinmaya-moharana-22.vercel.app/
 
-📫 **Email:**
-[moharanachinmay300@gmail.com](mailto:moharanachinmay300@gmail.com)
+📫 **Email:**  
+moharanachinmay300@gmail.com
 
 ---
 
-## 🧠 Developer Profile
+# 🧠 Developer Profile
 
-```javascript
+javascript
 const CHINMAYA = {
   role: "Full Stack Developer",
 
@@ -88,13 +99,13 @@ const CHINMAYA = {
   currentFocus:
     "Building scalable full-stack and AI-powered applications"
 };
-```
+
 
 ---
 
 # 🚀 Tech Stack
 
-### 💻 Frontend
+## 💻 Frontend
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -104,7 +115,9 @@ const CHINMAYA = {
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-### ⚙️ Backend
+---
+
+## ⚙️ Backend
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -114,14 +127,18 @@ const CHINMAYA = {
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-### 🗄️ Database
+---
+
+## 🗄️ Database
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🛠️ Tools & Deployment
+---
+
+## 🛠️ Tools & Deployment
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -137,41 +154,72 @@ const CHINMAYA = {
 
 # 📂 Featured Projects
 
-### 📋 Kanban Board Application
+## 📋 Kanban Board Application
 
-Task management application with organized boards, columns and task workflows.
+A task management application designed to organize projects, boards, columns and workflows.
 
-### 💰 Finance Dashboard System
+**Focus:** Productivity • UI/UX • Full Stack Development
 
-Dashboard for visualizing and managing financial information through an interactive UI.
+---
 
-### 💼 MERN Stack Job Portal
+## 💰 Finance Dashboard System
 
-Full-stack job platform built using MongoDB, Express, React and Node.js.
+Interactive financial dashboard designed to visualize and manage financial information through a modern interface.
 
-### 🤖 ATS Resume Analyzer
+**Focus:** Data Visualization • Dashboard UI • Responsive Design
 
-Application focused on analyzing resumes and improving their compatibility with job requirements.
+---
 
-### 🛒 Django E-commerce
+## 💼 MERN Stack Job Portal
 
-E-commerce application built with Django and a structured backend architecture.
+A full-stack job portal built using the MERN stack for managing job listings, applications and user workflows.
 
-### 📄 PDF ↔ Word Converter
+**Stack:** MongoDB • Express.js • React.js • Node.js
 
-Web application for converting documents between PDF and Word formats.
+---
 
-### ☕ Cafe Management System
+## 🤖 ATS Resume Analyzer
 
-Management system designed to simplify cafe operations and workflows.
+A resume analysis application focused on evaluating resumes against job requirements and helping users improve their applications.
+
+**Focus:** AI • Resume Analysis • Career Tools
+
+---
+
+## 🛒 Django E-commerce
+
+A complete e-commerce application built using Django with product management and structured backend architecture.
+
+**Stack:** Python • Django • SQL • HTML • CSS
+
+---
+
+## 📄 PDF ↔ Word Converter
+
+A web application that converts documents between PDF and Word formats.
+
+**Stack:** React • Django • Python
+
+---
+
+## ☕ Cafe Management System
+
+A management application designed to simplify cafe operations and daily workflows.
+
+**Focus:** Business Management • Full Stack Development
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinmayamoharana&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmayamoharana&theme=tokyonight&hide_border=true" height="170"/>
+  <a href="https://github.com/chinmayamoharana">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=chinmayamoharana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+      height="180"
+      alt="Chinmaya's GitHub Statistics"
+    />
+  </a>
 </p>
 
 ---
@@ -179,21 +227,55 @@ Management system designed to simplify cafe operations and workflows.
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chinmayamoharana&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/chinmayamoharana">
+    <img
+      src="https://streak-stats.demolab.com?user=chinmayamoharana&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+      height="180"
+      alt="Chinmaya's GitHub Streak"
+    />
+  </a>
 </p>
 
 ---
 
-# 📈 GitHub Contributions
+# 💻 Most Used Languages
 
 <p align="center">
-
-  <!-- GitHub automatically displays your contribution graph above your profile README. -->
-
   <a href="https://github.com/chinmayamoharana">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayamoharana&layout=compact&theme=tokyonight&hide_border=true" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayamoharana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+      height="180"
+      alt="Chinmaya's Most Used Languages"
+    />
   </a>
+</p>
 
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/chinmayamoharana">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=chinmayamoharana&theme=tokyo-night&hide_border=true&area=true&custom_title=Chinmaya%20Moharana%20-%20GitHub%20Activity"
+      width="100%"
+      alt="Chinmaya's GitHub Activity Graph"
+    />
+  </a>
+</p>
+
+---
+
+# 📌 GitHub Profile
+
+<p align="center">
+  <a href="https://github.com/chinmayamoharana">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmayamoharana&theme=tokyonight"
+      width="100%"
+      alt="Chinmaya's GitHub Profile Summary"
+    />
+  </a>
 </p>
 
 ---
@@ -203,29 +285,32 @@ Management system designed to simplify cafe operations and workflows.
 <p align="center">
 
 <a href="mailto:moharanachinmay300@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/chinmaya-moharana-707b02239">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/chinmayamoharana">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://chinmaya-moharana-22.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
 </p>
 
 <p align="center">
-📍 Bhubaneswar, Odisha, India
-<br/>
-💼 Open to Frontend & Full Stack Opportunities
+  📍 Bhubaneswar, Odisha, India
+  <br/>
+  💼 Open to Frontend & Full Stack Opportunities
 </p>
 
 ---
 
 <p align="center">
-
-⭐ Clean UI • Scalable Backend • AI Exploration • Real-World Problem Solving
-
+  ⭐ Clean UI • Scalable Backend • AI Exploration • Real-World Problem Solving
 </p>
+```
